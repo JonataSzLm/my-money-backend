@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/loader.js",
   "engines": {
-    "npm": "8.15.0"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "scripts": {
     "dev": "nodemon",
